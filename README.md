@@ -14,3 +14,5 @@
 ~~aws~~ amazon web servises
 
 Venu <sub>APSSDC</sub>
+
+(a+b)<sup>2</sup>
