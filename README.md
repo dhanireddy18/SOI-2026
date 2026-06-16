@@ -16,3 +16,8 @@
 Venu <sub>APSSDC</sub>
 
 (a+b)<sup>2</sup>
+
+<u>underlins</u> or <ins>underline</ins>
+
+>Note: This is markdown script
+
