@@ -70,6 +70,10 @@ Table
 first line\
 second line
 
+:sleeping:
+
+:-p:
+
 
 
  
