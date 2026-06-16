@@ -34,6 +34,16 @@ print(a+b)
 ![image](https://up.yimg.com/ib/th/id/OIP._vFhp4PlmDjOzFomMKxSwgHaE8?pid=Api&rs=1&c=1&qlt=95&w=181&h=121)
 
 
+Ordered list
+1.first
+2.second
+3.third
+
+Unordered list
+-first
+-second
+-third
+-fourth
 
 
 
