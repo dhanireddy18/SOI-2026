@@ -21,3 +21,4 @@ Venu <sub>APSSDC</sub>
 
 >Note: This is markdown script
 
+This is the `git command` markdown script
