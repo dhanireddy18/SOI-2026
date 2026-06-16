@@ -56,10 +56,11 @@ AWS means
 
 Table
 
-Name|college|department|
------------
-Venu|apssdc|aws
--------
+|Name|college|department|
+|----|---|---|
+|Venu|apssdc|aws
+|----|---|---|
+|venu|cree|csm|
  
 -------------
 [^1]:Thankful
