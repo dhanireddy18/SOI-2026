@@ -50,9 +50,9 @@ sorrowful[^2]
 
 
 AWS means
--[x] amazon web services
--[] amazon web storage
--[] amazon wide services
+- [x] amazon web services
+- [] amazon web storage
+- [] amazon wide services
 
  
 -------------
