@@ -72,7 +72,6 @@ second line
 
 :sleeping:
 
-:-p:
 
 
 
